@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ag_tweet/1.0.0": {
+        "dependencies": {
+          "ag_core": "1.0.0"
+        },
+        "runtime": {
+          "ag_tweet.dll": {}
+        }
+      },
+      "ag_core/1.0.0": {
+        "runtime": {
+          "ag_core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ag_tweet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ag_core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+I:\Dev\AGTwitter\AGTwitter\ag_tweet\obj\Debug\netcoreapp3.1\ag_tweet.csproj.AssemblyReference.cache
+I:\Dev\AGTwitter\AGTwitter\ag_tweet\obj\Debug\netcoreapp3.1\ag_tweet.GeneratedMSBuildEditorConfig.editorconfig
+I:\Dev\AGTwitter\AGTwitter\ag_tweet\obj\Debug\netcoreapp3.1\ag_tweet.AssemblyInfoInputs.cache
+I:\Dev\AGTwitter\AGTwitter\ag_tweet\obj\Debug\netcoreapp3.1\ag_tweet.AssemblyInfo.cs
+I:\Dev\AGTwitter\AGTwitter\ag_tweet\obj\Debug\netcoreapp3.1\ag_tweet.csproj.CoreCompileInputs.cache
+I:\Dev\AGTwitter\AGTwitter\ag_tweet\bin\Debug\netcoreapp3.1\ag_tweet.exe
+I:\Dev\AGTwitter\AGTwitter\ag_tweet\bin\Debug\netcoreapp3.1\ag_tweet.deps.json
+I:\Dev\AGTwitter\AGTwitter\ag_tweet\bin\Debug\netcoreapp3.1\ag_tweet.runtimeconfig.json
+I:\Dev\AGTwitter\AGTwitter\ag_tweet\bin\Debug\netcoreapp3.1\ag_tweet.runtimeconfig.dev.json
+I:\Dev\AGTwitter\AGTwitter\ag_tweet\bin\Debug\netcoreapp3.1\ag_tweet.dll
+I:\Dev\AGTwitter\AGTwitter\ag_tweet\bin\Debug\netcoreapp3.1\ag_tweet.pdb
+I:\Dev\AGTwitter\AGTwitter\ag_tweet\bin\Debug\netcoreapp3.1\ag_core.dll
+I:\Dev\AGTwitter\AGTwitter\ag_tweet\bin\Debug\netcoreapp3.1\ag_core.pdb
+I:\Dev\AGTwitter\AGTwitter\ag_tweet\obj\Debug\netcoreapp3.1\ag_tweet.csproj.CopyComplete
+I:\Dev\AGTwitter\AGTwitter\ag_tweet\obj\Debug\netcoreapp3.1\ag_tweet.dll
+I:\Dev\AGTwitter\AGTwitter\ag_tweet\obj\Debug\netcoreapp3.1\ag_tweet.pdb
+I:\Dev\AGTwitter\AGTwitter\ag_tweet\obj\Debug\netcoreapp3.1\ag_tweet.genruntimeconfig.cache

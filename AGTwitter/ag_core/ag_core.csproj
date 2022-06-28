@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="cFollower.cs~RF1dd285.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ag_core.Enum\" />
+  </ItemGroup>
+
+</Project>

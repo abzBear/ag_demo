@@ -1,0 +1,10 @@
+I:\Dev\AGTwitter\AGTwitter\ag_core\obj\Debug\netcoreapp3.1\ag_core.csproj.AssemblyReference.cache
+I:\Dev\AGTwitter\AGTwitter\ag_core\obj\Debug\netcoreapp3.1\ag_core.GeneratedMSBuildEditorConfig.editorconfig
+I:\Dev\AGTwitter\AGTwitter\ag_core\obj\Debug\netcoreapp3.1\ag_core.AssemblyInfoInputs.cache
+I:\Dev\AGTwitter\AGTwitter\ag_core\obj\Debug\netcoreapp3.1\ag_core.AssemblyInfo.cs
+I:\Dev\AGTwitter\AGTwitter\ag_core\obj\Debug\netcoreapp3.1\ag_core.csproj.CoreCompileInputs.cache
+I:\Dev\AGTwitter\AGTwitter\ag_core\bin\Debug\netcoreapp3.1\ag_core.deps.json
+I:\Dev\AGTwitter\AGTwitter\ag_core\bin\Debug\netcoreapp3.1\ag_core.dll
+I:\Dev\AGTwitter\AGTwitter\ag_core\bin\Debug\netcoreapp3.1\ag_core.pdb
+I:\Dev\AGTwitter\AGTwitter\ag_core\obj\Debug\netcoreapp3.1\ag_core.dll
+I:\Dev\AGTwitter\AGTwitter\ag_core\obj\Debug\netcoreapp3.1\ag_core.pdb

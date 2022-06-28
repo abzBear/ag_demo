@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U5MqdAYWp+i2O/Es2yu3LWNTOYSIGH9XzrRyqi6FCtBo9HJAza/wZqNbaJWGMikQM5/lbuLW6Xktc6GnTazZbA==",
+  "success": true,
+  "projectFilePath": "I:\\Dev\\AGTwitter\\AGTwitter\\ag_tweet\\ag_tweet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abzBear\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
